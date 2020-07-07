@@ -1,11 +1,11 @@
-# Água Viva - Controle de Presença
+# Petz-listagem
 
 ##Getting Started
 The project runs on Node, React (with Next.js) and Sass.
 
 ##Installing
 Clone the repository:
-git clone github.com/FelipePaulino/WebMotors.git
+git clone github.com/FelipePaulino/Petz-listagem.git
 
 ##Run npm install to install node dependencies:
 npm i
