@@ -1,4 +1,4 @@
-# Agua Viva - Controle de Presença
+# Água Viva - Controle de Presença
 
 ##Getting Started
 The project runs on Node, React (with Next.js) and Sass.
