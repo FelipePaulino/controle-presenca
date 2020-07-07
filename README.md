@@ -1,11 +1,11 @@
-# Petz-listagem
+# Água Viva - Controle de Presença
 
 ##Getting Started
 The project runs on Node, React (with Next.js) and Sass.
 
 ##Installing
 Clone the repository:
-git clone github.com/FelipePaulino/Petz-listagem.git
+git clone github.com/FelipePaulino/controle-presenca.git
 
 ##Run npm install to install node dependencies:
 npm i
